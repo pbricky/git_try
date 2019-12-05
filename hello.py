@@ -1,1 +1,1 @@
-print('hello my friend')
+print('today is the day')
